@@ -25,7 +25,7 @@ const Footer = () => {
           {/* Contact Info */}
           <div className="flex flex-col md:flex-row items-center gap-6 md:gap-12 mb-8 text-muted-foreground">
             <a
-              href="https://maps.google.com/?q=Chandol+04+Kathmandu"
+              href="https://maps.app.goo.gl/XVX49xqUQ2A4ocUj9"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 hover:text-foreground transition-colors duration-300 animated-underline"
@@ -35,11 +35,13 @@ const Footer = () => {
             </a>
 
             <a
-              href="tel:9863335542"
+              href="https://wa.me/9779863335542"
+              target="_blank"
+              rel="noopener noreferrer"
               className="flex items-center gap-2 hover:text-foreground transition-colors duration-300 animated-underline"
             >
               <Phone size={16} className="text-gold" />
-              <span className="font-body text-sm">986-3335542</span>
+              <span className="font-body text-sm">WhatsApp</span>
             </a>
 
             <a

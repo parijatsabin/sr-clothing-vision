@@ -90,7 +90,7 @@ const Collections = () => {
           className="text-center mt-12 md:mt-16"
         >
           <a
-            href="https://maps.google.com/?q=Chandol+04+Kathmandu"
+            href="https://maps.app.goo.gl/XVX49xqUQ2A4ocUj9"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 text-dark-foreground text-sm tracking-luxury uppercase font-body hover:text-gold transition-colors duration-300 group"

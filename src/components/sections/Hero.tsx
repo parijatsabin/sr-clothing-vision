@@ -60,7 +60,7 @@ const Hero = () => {
             className="flex flex-col sm:flex-row gap-4"
           >
             <a
-              href="https://maps.google.com/?q=Chandol+04+Kathmandu"
+              href="https://maps.app.goo.gl/XVX49xqUQ2A4ocUj9"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-hero-primary inline-flex items-center justify-center"
@@ -68,11 +68,13 @@ const Hero = () => {
               Visit Our Store
             </a>
             <a
-              href="tel:9863335542"
+              href="https://wa.me/9779863335542"
+              target="_blank"
+              rel="noopener noreferrer"
               className="btn-hero-outline inline-flex items-center justify-center gap-3"
             >
               <Phone size={18} />
-              Call Now
+              WhatsApp Us
             </a>
           </motion.div>
         </div>

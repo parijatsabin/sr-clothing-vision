@@ -74,7 +74,7 @@ const VisitUs = () => {
             {/* CTAs */}
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="https://maps.google.com/?q=Chandol+04+Kathmandu"
+                href="https://maps.app.goo.gl/XVX49xqUQ2A4ocUj9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-luxury-primary inline-flex items-center justify-center gap-2"
@@ -83,11 +83,13 @@ const VisitUs = () => {
                 Get Directions
               </a>
               <a
-                href="tel:9863335542"
+                href="https://wa.me/9779863335542"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="btn-luxury-outline inline-flex items-center justify-center gap-2"
               >
                 <Phone size={16} />
-                986-3335542
+                WhatsApp Us
               </a>
             </div>
           </motion.div>
@@ -102,7 +104,7 @@ const VisitUs = () => {
           >
             <div className="aspect-square lg:aspect-[4/3] bg-muted overflow-hidden">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.0453!2d85.3262!3d27.7250!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sChandol%2C%20Kathmandu!5e0!3m2!1sen!2snp!4v1700000000000"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3531.7547!2d85.3271!3d27.7350!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb19003c76f3e7%3A0x1c8f0c6f8f8f8f8f!2sSR%20Clothing!5e0!3m2!1sen!2snp!4v1700000000000!5m2!1sen!2snp"
                 width="100%"
                 height="100%"
                 style={{ border: 0, filter: "grayscale(100%) contrast(1.1)" }}

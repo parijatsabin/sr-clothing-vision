@@ -63,7 +63,9 @@ const Header = () => {
               Visit Us
             </a>
             <a
-              href="tel:9863335542"
+              href="https://wa.me/9779863335542"
+              target="_blank"
+              rel="noopener noreferrer"
               className={`flex items-center gap-2 font-body text-sm tracking-luxury uppercase transition-colors duration-300 ${
                 isScrolled
                   ? "text-gold hover:text-gold-dark"
@@ -71,7 +73,7 @@ const Header = () => {
               }`}
             >
               <Phone size={14} />
-              Call
+              WhatsApp
             </a>
           </nav>
 
@@ -129,11 +131,13 @@ const Header = () => {
                 Visit Us
               </a>
               <a
-                href="tel:9863335542"
+                href="https://wa.me/9779863335542"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="mt-8 btn-luxury-gold inline-flex items-center gap-2"
               >
                 <Phone size={16} />
-                986-3335542
+                WhatsApp Us
               </a>
             </nav>
           </motion.div>
